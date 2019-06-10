@@ -1,2 +1,2 @@
 # TicTacToe
-A simple C program for the game TicTocToe!
+A simple C program for the game TicTacToe!
